@@ -1,0 +1,1 @@
+shutdown –m –s –f –c “The computer will restart in 60 seconds.” –t 60
